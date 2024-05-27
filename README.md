@@ -20,9 +20,6 @@
 - php artisan key:generate
 
 
-![alt text](image.png)
-
-
 ### Developer Partners
 
 - **[gedeadisurya](https://gedeadi.my.id/)**
